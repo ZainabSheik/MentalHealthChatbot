@@ -28,7 +28,7 @@ Mental health matters, and sometimes, just having a conversation can help. This 
 ## 🎥 See It in Action!  
 Want a quick look? You can **view the raw video** directly on GitHub:  
 
-📌 [Click here to watch the demo](https://github.com/ZainabSheik/MentalHealthChatbot/blob/main/chatbot%20working%20video.mp4?raw=true)  
+📌 [Click here to watch the demo](https://github.com/ZainabSheik/MentalHealthChatbot/blob/main/chatbot%20working%20video.mp4)  
 
 💡 If the video doesn’t play, try **right-clicking** the link and selecting **"Open in New Tab"** or **download it** to watch offline.  
 
