@@ -57,11 +57,15 @@ This chatbot is developed using:
 ## 🛠 How to Set It Up  
 Want to use the chatbot yourself? Follow these steps!  
 
-### 1️⃣ Clone the Repository  
+### 1️⃣ Clone the Repository and Run the Chatbot  
 ```bash
 git clone https://github.com/ZainabSheik/MentalHealthChatbot.git
 cd MentalHealthChatbot
 
+# Install dependencies
 pip install -r requirements.txt
+
+# Run the Flask server
 python app.py
+
 
